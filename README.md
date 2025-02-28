@@ -21,8 +21,8 @@
 
 ### **Notas sobre las Imágenes**
 
-- **`img-mockup/img-1.webp`**: Representa el diseño original del mockup, el cual fue la base para la maquetación.
-- **`img-mockup/img-2.webp`**: Muestra el diseño completo, con detalles del header, la barra de navegación y las formas decorativas.
-- **`img-mockup/diseño-1.png`**: Vista de la implementación del header, que incluye la barra de navegación y las imágenes decorativas.
-- **`img-mockup/diseño-2.png`**: Muestra el diseño de la parte inferior de la página, donde se puede ver cómo se organizan los elementos adicionales.
-- **`img-mockup/diseño.png`**: Vista general del diseño final, con todos los elementos visuales completos para su presentación.
+- ![img-1](img-mockup/img-1.webp): Representa el diseño original del mockup, el cual fue la base para la maquetación.
+- ![img-2](img-mockup/img-2.webp): Muestra el diseño completo, con detalles del header, la barra de navegación y las formas decorativas.
+- ![diseño-1](img-mockup/diseño-1.png): Vista de la implementación del header, que incluye la barra de navegación y las imágenes decorativas.
+- ![diseño-2](img-mockup/diseño-2.png): Muestra el diseño de la parte inferior de la página, donde se puede ver cómo se organizan los elementos adicionales.
+- ![diseño](img-mockup/diseño.png): Vista general del diseño final, con todos los elementos visuales completos para su presentación.
